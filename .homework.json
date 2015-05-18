@@ -1,0 +1,13 @@
+{
+    "name": "javascript-arrays-worksheet",
+    "version": "0.0.1",
+    "title": "JavaScript arrays worksheet",
+    "description": "Practice working with JavaScript arrays",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript",
+        "arrays"
+    ]
+}
